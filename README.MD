@@ -1,6 +1,6 @@
 <p align="center">
 <img 
-    src="./assets/cover.png"
+    src="assets/Prince Ashitaka 5.png"
     width="300"
 />
 </p>
