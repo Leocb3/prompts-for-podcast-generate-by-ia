@@ -26,19 +26,19 @@ Utilizer uma esteira de prompts para gerar cada etapa do processo criativo.
 ## 💻 Tecnologias utilizadas no projeto
 
 - [Gemini](https://gemini.google.com/) 
-- [MidJourney](https://www.midjourney.com/app/)
+- [MidJourney](https://gemini.google.com/)
 - [ElevenLabs](https://beta.elevenlabs.io/)
 
 ## ✨ Como foi feito ?
 
 - Roteiro gerado via Gemini
 - Áudio gerado pela ElevenLabs
-- Midjourney Para gerar capas
+- Gemini para gerar capas
 
 ## 📚 Materiais
 
 - [Notion Template](https://helpful-jump-17b.notion.site/PAS-Podcast-AI-Studio-210489e15d7a4a73b743bb159e45d06f?pvs=4)
-- [Editor de áudio](https://www.capcut.com/editor?from_page=landing_page&__action_from=picture_V%C3%ADdeos%20profissionais%20em%20minutos,%20n%C3%A3o%20em%20horas.)
+- [Editor de áudio](https://www.audacityteam.org)
 
 ## 🛠️ Instruções de execução
 
@@ -46,7 +46,7 @@ Utilize os prompts dentro do link do `Notion` fornecido na parte de `Materiais` 
 
 - 🤖 1. Use os prompts de roteiro no `Gemini`
 - 🤖 2. Use os prompts de roteiro gerados pelo chatgpt no `ElevenLabs`
-- 🤖 3. Use os prompts de artes no `Midjourney`
+- 🤖 3. Use os prompts de artes no `Gemini`
 
 ## 👨‍💻 Expert
 
@@ -57,7 +57,7 @@ Utilize os prompts dentro do link do `Notion` fornecido na parte de `Materiais` 
       width=80 
       src="assets/Prince Ashitaka 5.png"
     />
-    <p>&nbsp&nbsp&nbspFelipe Aguiar<br>
+    <p>&nbsp&nbsp&nbspLeonardo Chung Bezerra<br>
     &nbsp&nbsp&nbsp
     <a 
         href="https://https://github.com/Leocb3">
