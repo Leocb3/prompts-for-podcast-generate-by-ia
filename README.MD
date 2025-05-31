@@ -1,14 +1,8 @@
 <p align="center">
 <img 
-    src="assets/Prince Ashitaka 5.png"
+    src="assets/eu IA 2.png"
     width="300"
 />
-</p>
-
-</p>
-
-<p align="center">
-    preview do podcast
 </p>
 
 <div align="center">
@@ -26,7 +20,7 @@ Utilizer uma esteira de prompts para gerar cada etapa do processo criativo.
 ## 💻 Tecnologias utilizadas no projeto
 
 - [Gemini](https://gemini.google.com/) 
-- [MidJourney](https://gemini.google.com/)
+- [Gemini](https://gemini.google.com/)
 - [ElevenLabs](https://beta.elevenlabs.io/)
 
 ## ✨ Como foi feito ?
