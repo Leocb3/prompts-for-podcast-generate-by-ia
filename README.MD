@@ -80,4 +80,4 @@ Utilize os prompts dentro do link do `Notion` fornecido na parte de `Materiais` 
 
 ---
 
-⌨️ com ☕🌌 por [Léo Chung] (assets/Prince Ashitaka 5.png)
+⌨️ com ☕🌌 por [Léo Chung] (https://github.com/Leocb3)
