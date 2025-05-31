@@ -22,12 +22,14 @@ Utilizer uma esteira de prompts para gerar cada etapa do processo criativo.
 - [Gemini](https://gemini.google.com/) 
 - [Gemini](https://gemini.google.com/)
 - [ElevenLabs](https://beta.elevenlabs.io/)
+- [Audacity](https://www.audacityteam.org)
 
 ## ✨ Como foi feito ?
 
 - Roteiro gerado via Gemini
 - Áudio gerado pela ElevenLabs
 - Gemini para gerar capas
+- Audacity para tratar aúdio e adicionar música de fundo
 
 ## 📚 Materiais
 
