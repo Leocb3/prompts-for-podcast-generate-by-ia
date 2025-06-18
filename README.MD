@@ -17,7 +17,6 @@ Utilizer uma esteira de prompts para gerar cada etapa do processo criativo.
 
 ## 💻 Tecnologias utilizadas no projeto
 
-- [Gemini](https://gemini.google.com/) 
 - [Gemini](https://gemini.google.com/)
 - [ElevenLabs](https://beta.elevenlabs.io/)
 - [Audacity](https://www.audacityteam.org)
